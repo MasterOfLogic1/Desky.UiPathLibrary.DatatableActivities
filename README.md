@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/user-attachments/assets/9c7c82c9-0e99-4bfa-bd50-0ac3b4455802)
+![image](https://github.com/user-attachments/assets/801dbd8c-294f-411e-a433-2ef6579f4a42)
 
 # Desky Datatable Activities
 
