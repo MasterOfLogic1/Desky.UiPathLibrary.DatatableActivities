@@ -4,7 +4,7 @@
 
 # Desky Datatable Activities
 
-**Desky Datatable Activities** is a custom library for UiPath designed to simplify and enhance data manipulation within DataTables. This library provides a variety of activities for converting data types, merging tables, splitting tables, summing values, and more.
+**Desky Datatable Activities** is a custom Uipath library for UiPath designed to simplify and enhance data manipulation within DataTables. This library provides a variety of activities for converting data types, merging tables, splitting tables, summing values, and more.
 
 ## Features
 
@@ -26,29 +26,6 @@
 4. Click **Install** to add it to your project.
 
 ## Usage
-
-### Convert Columns to Numeric
-
-```xml
-<ConvertColumnToNumeric>
-    <InputDataTable>Your DataTable</InputDataTable>
-    <ColumnNames>
-        <string>Column1</string>
-        <string>Column2</string>
-    </ColumnNames>
-    <OutputDataTable>Result DataTable</OutputDataTable>
-</ConvertColumnToNumeric>
-```
-
-### Get Column Index By Name
-
-```xml
-<GetColumnIndexByName>
-    <InputDataTable>Your DataTable</InputDataTable>
-    <ColumnName>Column1</ColumnName>
-    <ColumnIndex>Index</ColumnIndex>
-</GetColumnIndexByName>
-```
 
 ## Activities Overview
 
