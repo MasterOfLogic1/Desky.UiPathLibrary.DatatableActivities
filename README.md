@@ -18,10 +18,9 @@
 ## Installation
 
 1. Download the latest release of the **Desky Datatable Activities** library.
-2. In UiPath Studio, go to **Manage Packages**.
-3. Select **Local** and then click on **Add**.
-4. Browse to the location where you downloaded the library and select it.
-5. Click **Install** to add it to your project.
+2. In UiPath Studio, go to **Manage Packages** and select **nuget.org**.
+3. Search *Desky Datatable Activities** .
+4. Click **Install** to add it to your project.
 
 ## Usage
 
