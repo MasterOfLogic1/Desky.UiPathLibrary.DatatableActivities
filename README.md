@@ -43,6 +43,13 @@
 - **Description**: Converts a DataTable into HTML format.
 - **Input**: DataTable.
 - **Output**: HTML string representation.
+  ![image](https://github.com/user-attachments/assets/787f32e6-5a84-41eb-bfd4-aede8666e93a)
+
+  ![image](https://github.com/user-attachments/assets/2882a6c8-196a-430c-8f96-8fe670e95b31)
+
+  ![image](https://github.com/user-attachments/assets/456f013b-3089-4639-9b58-e0ffa6bec9cd)
+
+
 
 ### 4. Merge DataTable
 - **Description**: Merges two DataTables.
