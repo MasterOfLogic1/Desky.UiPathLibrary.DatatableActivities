@@ -1,4 +1,7 @@
 
+
+![image](https://github.com/user-attachments/assets/9c7c82c9-0e99-4bfa-bd50-0ac3b4455802)
+
 # Desky Datatable Activities
 
 **Desky Datatable Activities** is a custom library for UiPath designed to simplify and enhance data manipulation within DataTables. This library provides a variety of activities for converting data types, merging tables, splitting tables, summing values, and more.
@@ -101,7 +104,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## License
 
 This project is free to use.
-![image](https://github.com/user-attachments/assets/1b52fe95-0841-4e3e-b5e1-89a147a4ece7)
+
 
 ## Contact
 
