@@ -100,16 +100,10 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is licensed under the MIT License.
+This project is free to use.
 
 ## Contact
 
-For any inquiries or issues, please contact [your email or contact method].
+For any inquiries or issues, please contact [mydeskstones@gmail.com].
+Contributors : David Oku, Chinyere Isiekwu
 ```
-
-### Notes
-- **Customization**: Replace `[your email or contact method]` with your actual contact information.
-- **Examples**: You may add more detailed examples or even screenshots of the activities in use, depending on your target audience.
-- **License**: Adjust the license section based on your project's licensing approach.
-
-Feel free to adjust the structure or content as needed! If you have any specific additions or modifications in mind, let me know!
